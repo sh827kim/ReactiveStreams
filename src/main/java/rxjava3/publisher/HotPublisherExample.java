@@ -1,4 +1,4 @@
-package ch06;
+package rxjava3.publisher;
 
 import io.reactivex.rxjava3.processors.PublishProcessor;
 
